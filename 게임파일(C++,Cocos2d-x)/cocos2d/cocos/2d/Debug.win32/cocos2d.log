@@ -1,0 +1,8 @@
+﻿  edtaa3func.cpp
+  tinyxml2.cpp
+  ioapi.cpp
+  unzip.cpp
+  xxhash.c
+  atitc.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1933): warning C4005: 'snprintf': 매크로 재정의 (소스 파일 컴파일 중 ..\base\atitc.cpp)
+cl : 명령줄 error D8040: 자식 프로세스를 만들거나 통신하는 동안 오류가 발생했습니다.
